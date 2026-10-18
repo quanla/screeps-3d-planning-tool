@@ -1,0 +1,1 @@
+{"room":"W37S37","shard":"shard3","fetchedAt":"2026-10-18T18:44:51.593Z","objects":[{"type":"source","x":17,"y":10},{"type":"controller","x":10,"y":30,"level":0,"reservedBy":"Invader"},{"type":"source","x":25,"y":34},{"type":"mineral","x":47,"y":11},{"type":"constructedWall","x":12,"y":13},{"type":"invaderCore","x":14,"y":32,"user":"Invader"}]}
