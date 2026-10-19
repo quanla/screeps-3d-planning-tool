@@ -1,6 +1,6 @@
 {
   "statusFetchedAt": "2026-10-19T18:40:01.302Z",
-  "packagedAt": "2026-10-19T19:40:07.338Z",
+  "packagedAt": "2026-10-19T20:08:24.686Z",
   "shards": {
     "shard0": {
       "open": 13147,
@@ -9,8 +9,8 @@
     },
     "shard1": {
       "open": 14884,
-      "packaged": 3847,
-      "pending": 11037
+      "packaged": 10426,
+      "pending": 4458
     },
     "shard2": {
       "open": 14884,

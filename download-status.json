@@ -5,14 +5,14 @@
   "downloads": {
     "structures": {
       "pid": 45959,
-      "latest": "shard1: 2250 done"
+      "latest": "shard1: 8800 done"
     },
     "terrains": {
       "pid": 45958,
-      "latest": "shard1: 2350 done"
+      "latest": "shard1: 8900 done"
     }
   },
-  "updatedAt": "2026-10-19T19:40:04.609Z",
+  "updatedAt": "2026-10-19T20:08:20.327Z",
   "coverage": {
     "shard0": {
       "open": 13147,
@@ -21,8 +21,8 @@
     },
     "shard1": {
       "open": 14884,
-      "packaged": 3242,
-      "pending": 11642
+      "packaged": 10298,
+      "pending": 4586
     },
     "shard2": {
       "open": 14884,
