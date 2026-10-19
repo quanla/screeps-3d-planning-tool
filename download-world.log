@@ -1,0 +1,766 @@
+Packaged 7134 open rooms into 156 chunks
+[structures] shard0: 11680 rooms to download
+[terrains] shard0: 11653 rooms to download
+[terrains] shard0: 50 done
+[structures] shard0: 50 done
+[terrains] shard0: 100 done
+[structures] shard0: 100 done
+[terrains] shard0: 150 done
+[structures] shard0: 150 done
+[terrains] shard0: 200 done
+[structures] shard0: 200 done
+[terrains] shard0: 250 done
+[structures] shard0: 250 done
+[terrains] shard0: 300 done
+[structures] shard0: 300 done
+[terrains] shard0: 350 done
+[structures] shard0: 350 done
+[terrains] shard0: 400 done
+[structures] shard0: 400 done
+[terrains] shard0: 450 done
+[structures] shard0: 450 done
+[terrains] shard0: 500 done
+[structures] shard0: 500 done
+[terrains] shard0 E9N59: HTTP 429, waiting 4s
+[structures] shard0 E70N60: HTTP 429, waiting 4s
+[terrains] shard0 E19N59: HTTP 429, waiting 4s
+[structures] shard0 W50N59: HTTP 429, waiting 4s
+[structures] shard0 W13N59: HTTP 429, waiting 4s
+[terrains] shard0 W80N58: HTTP 429, waiting 4s
+[terrains] shard0: 550 done
+[structures] shard0: 550 done
+[terrains] shard0 E3N58: HTTP 429, waiting 4s
+[terrains] shard0 E17N58: HTTP 429, waiting 4s
+[structures] shard0: 600 done
+[terrains] shard0 E29N58: HTTP 429, waiting 4s
+[terrains] shard0: 600 done
+[terrains] shard0 W17N57: HTTP 429, waiting 4s
+[structures] shard0: 650 done
+[terrains] shard0 E7N57: HTTP 429, waiting 4s
+[structures] shard0 W20N56: HTTP 429, waiting 4s
+[structures] shard0 W18N56: HTTP 429, waiting 4s
+[terrains] shard0: 650 done
+[terrains] shard0 W15N56: HTTP 429, waiting 4s
+[terrains] shard0 W13N56: HTTP 429, waiting 4s
+[structures] shard0: 700 done
+[terrains] shard0 W11N56: HTTP 429, waiting 4s
+[terrains] shard0 W10N56: HTTP 429, waiting 4s
+[structures] shard0 W70N55: HTTP 429, waiting 4s
+[terrains] shard0 W10N56: HTTP 429, waiting 8s
+[structures] shard0: 750 done
+[terrains] shard0 E12N56: HTTP 429, waiting 4s
+[structures] shard0 E17N55: HTTP 429, waiting 4s
+[structures] shard0 E18N55: HTTP 429, waiting 4s
+[terrains] shard0: 700 done
+[terrains] shard0 W60N55: HTTP 429, waiting 4s
+[structures] shard0 E24N55: HTTP 429, waiting 4s
+[structures] shard0 W40N54: HTTP 429, waiting 4s
+[structures] shard0: 800 done
+[terrains] shard0: 750 done
+[structures] shard0 W10N54: HTTP 429, waiting 4s
+[terrains] shard0 E4N54: HTTP 429, waiting 4s
+[terrains] shard0 E6N54: HTTP 429, waiting 4s
+[structures] shard0 W80N53: HTTP 429, waiting 4s
+[structures] shard0 W77N53: HTTP 429, waiting 4s
+[terrains] shard0: 800 done
+[structures] shard0: 850 done
+[terrains] shard0 E40N54: HTTP 429, waiting 4s
+[structures] shard0 W50N53: HTTP 429, waiting 4s
+[structures] shard0 W12N53: HTTP 429, waiting 4s
+[terrains] shard0 W18N53: HTTP 429, waiting 4s
+[terrains] shard0 E1N53: HTTP 429, waiting 4s
+[structures] shard0 E9N53: HTTP 429, waiting 4s
+[terrains] shard0: 850 done
+[structures] shard0 E9N53: HTTP 429, waiting 8s
+[terrains] shard0 E15N53: HTTP 429, waiting 4s
+[structures] shard0 E29N53: HTTP 429, waiting 4s
+[structures] shard0: 900 done
+[terrains] shard0: 900 done
+[terrains] shard0: 950 done
+[structures] shard0: 950 done
+[structures] shard0 E29N52: HTTP 429, waiting 4s
+[terrains] shard0 W79N50: HTTP 429, waiting 4s
+[terrains] shard0 W77N50: HTTP 429, waiting 4s
+[terrains] shard0 W76N50: HTTP 429, waiting 4s
+[structures] shard0 E14N51: HTTP 429, waiting 4s
+[terrains] shard0: 1000 done
+[structures] shard0: 1000 done
+[structures] shard0 E26N51: HTTP 429, waiting 4s
+[terrains] shard0 W60N50: HTTP 429, waiting 4s
+[structures] shard0 W77N50: HTTP 429, waiting 4s
+[terrains] shard0 W46N50: HTTP 429, waiting 4s
+[structures] shard0 W64N50: HTTP 429, waiting 4s
+[terrains] shard0 W46N50: HTTP 429, waiting 8s
+[structures] shard0 W50N50: HTTP 429, waiting 4s
+[terrains] shard0: 1050 done
+[structures] shard0: 1050 done
+[terrains] shard0 W9N50: HTTP 429, waiting 4s
+[structures] shard0 W40N50: HTTP 429, waiting 4s
+Packaged 8203 open rooms into 192 chunks
+[structures] shard0 W26N50: HTTP 429, waiting 4s
+shard0 W25N50: HTTP 429, waiting 4s
+[terrains] shard0 E26N50: HTTP 429, waiting 4s
+[structures] shard0 W22N50: HTTP 429, waiting 4s
+[terrains] shard0: 1100 done
+[terrains] shard0 E26N50: HTTP 429, waiting 8s
+[structures] shard0 W10N50: HTTP 429, waiting 4s
+[structures] shard0: 1100 done
+[structures] shard0 E5N50: HTTP 429, waiting 4s
+[terrains] shard0 E63N50: HTTP 429, waiting 4s
+[terrains] shard0 E65N50: HTTP 429, waiting 4s
+[structures] shard0 E35N50: HTTP 429, waiting 4s
+[terrains] shard0 E71N50: HTTP 429, waiting 4s
+[terrains] shard0: 1150 done
+[terrains] shard0 W80N49: HTTP 429, waiting 4s
+[structures] shard0: 1150 done
+[structures] shard0 E55N50: HTTP 429, waiting 4s
+[structures] shard0 E68N50: HTTP 429, waiting 4s
+[structures] shard0 W70N49: HTTP 429, waiting 4s
+[terrains] shard0: 1200 done
+[structures] shard0 W9N49: HTTP 429, waiting 4s
+[structures] shard0: 1200 done
+[terrains] shard0: 1250 done
+[terrains] shard0 E17N48: HTTP 429, waiting 4s
+[terrains] shard0 E19N48: HTTP 429, waiting 4s
+[structures] shard0 E56N49: HTTP 429, waiting 4s
+[terrains] shard0 E40N48: HTTP 429, waiting 4s
+[structures] shard0: 1250 done
+[terrains] shard0 E60N48: HTTP 429, waiting 4s
+[terrains] shard0 W46N47: HTTP 429, waiting 4s
+[structures] shard0: 1300 done
+[terrains] shard0: 1300 done
+[terrains] shard0 W5N47: HTTP 429, waiting 4s
+[terrains] shard0 E19N47: HTTP 429, waiting 4s
+[structures] shard0: 1350 done
+[structures] shard0 E52N47: HTTP 429, waiting 4s
+[terrains] shard0 E55N47: HTTP 429, waiting 4s
+[terrains] shard0: 1350 done
+[structures] shard0 W49N46: HTTP 429, waiting 4s
+[terrains] shard0 W49N46: HTTP 429, waiting 4s
+[structures] shard0 W7N46: HTTP 429, waiting 4s
+[terrains] shard0 W7N46: HTTP 429, waiting 4s
+[structures] shard0: 1400 done
+[terrains] shard0 E13N46: HTTP 429, waiting 4s
+[terrains] shard0 E15N46: HTTP 429, waiting 4s
+[structures] shard0 E53N46: HTTP 429, waiting 4s
+[terrains] shard0 E19N46: HTTP 429, waiting 4s
+[terrains] shard0 E48N46: HTTP 429, waiting 4s
+[terrains] shard0 E19N46: HTTP 429, waiting 8s
+[structures] shard0: 1450 done
+[terrains] shard0 E50N46: HTTP 429, waiting 4s
+[structures] shard0 E45N45: HTTP 429, waiting 4s
+[terrains] shard0: 1400 done
+[structures] shard0 E54N45: HTTP 429, waiting 4s
+[terrains] shard0 W80N45: HTTP 429, waiting 4s
+[structures] shard0: 1500 done
+[terrains] shard0 W41N45: HTTP 429, waiting 4s
+[structures] shard0 W47N44: HTTP 429, waiting 4s
+[terrains] shard0 W4N45: HTTP 429, waiting 4s
+[structures] shard0 W8N44: HTTP 429, waiting 4s
+[terrains] shard0 E16N45: HTTP 429, waiting 4s
+[terrains] shard0 E30N45: HTTP 429, waiting 4s
+[structures] shard0 E43N44: HTTP 429, waiting 4s
+[terrains] shard0: 1450 done
+[structures] shard0: 1550 done
+[terrains] shard0 E48N45: HTTP 429, waiting 4s
+[structures] shard0 E53N44: HTTP 429, waiting 4s
+[terrains] shard0 E70N45: HTTP 429, waiting 4s
+[structures] shard0 W49N43: HTTP 429, waiting 4s
+[structures] shard0 W42N43: HTTP 429, waiting 4s
+[terrains] shard0 W8N44: HTTP 429, waiting 4s
+[terrains] shard0: 1500 done
+[structures] shard0 W4N43: HTTP 429, waiting 4s
+[terrains] shard0 E11N44: HTTP 429, waiting 4s
+[structures] shard0: 1600 done
+[terrains] shard0 E42N44: HTTP 429, waiting 4s
+[terrains] shard0 E11N44: HTTP 429, waiting 8s
+[structures] shard0 W60N42: HTTP 429, waiting 4s
+[structures] shard0 W9N42: HTTP 429, waiting 4s
+[structures] shard0: 1650 done
+[terrains] shard0: 1550 done
+[structures] shard0 E13N42: HTTP 429, waiting 4s
+[terrains] shard0 E53N43: HTTP 429, waiting 4s
+[structures] shard0 E48N42: HTTP 429, waiting 4s
+[terrains] shard0: 1600 done
+[terrains] shard0 W48N42: HTTP 429, waiting 4s
+[terrains] shard0 W47N42: HTTP 429, waiting 4s
+[structures] shard0: 1700 done
+[terrains] shard0 W47N42: HTTP 429, waiting 8s
+[terrains] shard0 W44N42: HTTP 429, waiting 4s
+[structures] shard0 E48N41: HTTP 429, waiting 4s
+[structures] shard0: 1750 done
+[terrains] shard0 W47N42: HTTP 429, waiting 16s
+[terrains] shard0 W1N42: HTTP 429, waiting 4s
+[structures] shard0: 1800 done
+[structures] shard0 W43N40: HTTP 429, waiting 4s
+[terrains] shard0 E40N42: HTTP 429, waiting 4s
+[terrains] shard0: 1650 done
+[structures] shard0: 1850 done
+[terrains] shard0: 1700 done
+[structures] shard0: 1900 done
+[terrains] shard0: 1750 done
+[structures] shard0: 1950 done
+[terrains] shard0: 1800 done
+[structures] shard0: 2000 done
+[terrains] shard0: 1850 done
+[structures] shard0: 2050 done
+[terrains] shard0: 1900 done
+[structures] shard0: 2100 done
+Packaged 9103 open rooms into 222 chunks
+[terrains] shard0: 1950 done
+[structures] shard0: 2150 done
+[terrains] shard0: 2000 done
+[structures] shard0: 2200 done
+[terrains] shard0: 2050 done
+[structures] shard0: 2250 done
+[terrains] shard0: 2100 done
+[structures] shard0: 2300 done
+[terrains] shard0: 2150 done
+[structures] shard0: 2350 done
+[terrains] shard0: 2200 done
+[structures] shard0: 2400 done
+[terrains] shard0: 2250 done
+[structures] shard0: 2450 done
+[terrains] shard0: 2300 done
+[structures] shard0: 2500 done
+[terrains] shard0: 2350 done
+[structures] shard0: 2550 done
+[terrains] shard0: 2400 done
+[structures] shard0: 2600 done
+[terrains] shard0: 2450 done
+[structures] shard0: 2650 done
+[terrains] shard0: 2500 done
+[structures] shard0: 2700 done
+[terrains] shard0: 2550 done
+[structures] shard0: 2750 done
+[terrains] shard0: 2600 done
+[structures] shard0: 2800 done
+[terrains] shard0: 2650 done
+[structures] shard0: 2850 done
+[terrains] shard0: 2700 done
+[structures] shard0: 2900 done
+[terrains] shard0: 2750 done
+[structures] shard0: 2950 done
+[terrains] shard0: 2800 done
+[structures] shard0: 3000 done
+[terrains] shard0: 2850 done
+[structures] shard0: 3050 done
+[terrains] shard0: 2900 done
+[structures] shard0: 3100 done
+[terrains] shard0: 2950 done
+[structures] shard0: 3150 done
+[terrains] shard0: 3000 done
+[structures] shard0: 3200 done
+[terrains] shard0: 3050 done
+[structures] shard0: 3250 done
+[terrains] shard0: 3100 done
+[structures] shard0: 3300 done
+[terrains] shard0: 3150 done
+[structures] shard0: 3350 done
+[terrains] shard0: 3200 done
+[structures] shard0: 3400 done
+[terrains] shard0: 3250 done
+[structures] shard0: 3450 done
+[terrains] shard0: 3300 done
+[structures] shard0: 3500 done
+Packaged 10509 open rooms into 246 chunks
+[terrains] shard0: 3350 done
+[structures] shard0: 3550 done
+[terrains] shard0: 3400 done
+[structures] shard0: 3600 done
+[terrains] shard0: 3450 done
+[terrains] shard0 W12N21: HTTP 429, waiting 4s
+[structures] shard0: 3650 done
+[terrains] shard0: 3500 done
+[structures] shard0: 3700 done
+[terrains] shard0: 3550 done
+[structures] shard0: 3750 done
+[terrains] shard0: 3600 done
+[structures] shard0: 3800 done
+[terrains] shard0: 3650 done
+[structures] shard0: 3850 done
+[terrains] shard0: 3700 done
+[structures] shard0: 3900 done
+[terrains] shard0: 3750 done
+[structures] shard0: 3950 done
+[terrains] shard0: 3800 done
+[structures] shard0: 4000 done
+[terrains] shard0: 3850 done
+[structures] shard0: 4050 done
+[terrains] shard0: 3900 done
+[structures] shard0: 4100 done
+[terrains] shard0: 3950 done
+[structures] shard0: 4150 done
+[terrains] shard0: 4000 done
+[structures] shard0: 4200 done
+[terrains] shard0: 4050 done
+[structures] shard0: 4250 done
+[terrains] shard0: 4100 done
+[structures] shard0: 4300 done
+[terrains] shard0: 4150 done
+[structures] shard0: 4350 done
+[terrains] shard0: 4200 done
+[structures] shard0: 4400 done
+[terrains] shard0: 4250 done
+[structures] shard0: 4450 done
+[terrains] shard0: 4300 done
+[structures] shard0: 4500 done
+[terrains] shard0: 4350 done
+[structures] shard0: 4550 done
+[terrains] shard0: 4400 done
+[structures] shard0: 4600 done
+[terrains] shard0: 4450 done
+[structures] shard0: 4650 done
+[terrains] shard0: 4500 done
+[structures] shard0: 4700 done
+[structures] shard0 E64N10: HTTP 429, waiting 4s
+[terrains] shard0 W68N10: HTTP 429, waiting 4s
+[terrains] shard0: 4550 done
+[terrains] shard0 W68N10: HTTP 429, waiting 8s
+[structures] shard0 E76N10: HTTP 429, waiting 4s
+[structures] shard0 W27N9: HTTP 429, waiting 4s
+[terrains] shard0 W34N10: HTTP 429, waiting 4s
+[structures] shard0 W27N9: HTTP 429, waiting 8s
+[structures] shard0: 4750 done
+[terrains] shard0 W18N10: HTTP 429, waiting 4s
+[terrains] shard0: 4600 done
+[terrains] shard0 W7N10: HTTP 429, waiting 4s
+[terrains] shard0 W8N10: HTTP 429, waiting 4s
+[structures] shard0 E37N9: HTTP 429, waiting 4s
+[structures] shard0: 4800 done
+[structures] shard0 E54N9: HTTP 429, waiting 4s
+[terrains] shard0 E11N10: HTTP 429, waiting 4s
+[structures] shard0 W40N8: HTTP 429, waiting 4s
+Packaged 11804 open rooms into 264 chunks
+[terrains] shard0: 4650 done
+[structures] shard0 W14N8: HTTP 429, waiting 4s
+[structures] shard0: 4850 done
+[structures] shard0 E0N8: HTTP 429, waiting 4s
+[terrains] shard0: 4700 done
+[structures] shard0 E13N8: HTTP 429, waiting 4s
+[structures] shard0 E28N8: HTTP 429, waiting 4s
+[terrains] shard0: 4750 done
+[terrains] shard0 E35N9: HTTP 429, waiting 4s
+[structures] shard0 E53N8: HTTP 429, waiting 4s
+[structures] shard0: 4900 done
+[structures] shard0 W29N7: HTTP 429, waiting 4s
+[terrains] shard0: 4800 done
+[terrains] shard0 W6N8: HTTP 429, waiting 4s
+[terrains] shard0 W4N8: HTTP 429, waiting 4s
+[structures] shard0 E8N7: HTTP 429, waiting 4s
+[structures] shard0: 4950 done
+[terrains] shard0 W4N8: HTTP 429, waiting 8s
+[structures] shard0 E21N7: HTTP 429, waiting 4s
+[structures] shard0 E21N7: HTTP 429, waiting 8s
+[terrains] shard0 E23N8: HTTP 429, waiting 4s
+[terrains] shard0: 4850 done
+[terrains] shard0 E37N8: HTTP 429, waiting 4s
+[structures] shard0 W50N6: HTTP 429, waiting 4s
+[structures] shard0: 5000 done
+[terrains] shard0 E60N8: HTTP 429, waiting 4s
+[terrains] shard0 W30N7: HTTP 429, waiting 4s
+[structures] shard0 W14N6: HTTP 429, waiting 4s
+[structures] shard0 W3N6: HTTP 429, waiting 4s
+[terrains] shard0 W15N7: HTTP 429, waiting 4s
+[terrains] shard0: 4900 done
+[structures] shard0 E7N6: HTTP 429, waiting 4s
+[terrains] shard0 W3N7: HTTP 429, waiting 4s
+[structures] shard0: 5050 done
+[structures] shard0 E23N6: HTTP 429, waiting 4s
+[terrains] shard0 E6N7: HTTP 429, waiting 4s
+[terrains] shard0 E22N7: HTTP 429, waiting 4s
+[structures] shard0 E37N6: HTTP 429, waiting 4s
+[terrains] shard0 E32N7: HTTP 429, waiting 4s
+[structures] shard0 E60N6: HTTP 429, waiting 4s
+[terrains] shard0: 4950 done
+[structures] shard0 E60N6: HTTP 429, waiting 8s
+[structures] shard0 W25N5: HTTP 429, waiting 4s
+[structures] shard0 W23N5: HTTP 429, waiting 4s
+[terrains] shard0: 5000 done
+[terrains] shard0 W4N6: HTTP 429, waiting 4s
+[structures] shard0: 5100 done
+[structures] shard0 W10N5: HTTP 429, waiting 4s
+[structures] shard0 W9N5: HTTP 429, waiting 4s
+[structures] shard0 W9N5: HTTP 429, waiting 8s
+[structures] shard0 W6N5: HTTP 429, waiting 4s
+[terrains] shard0: 5050 done
+[structures] shard0 W1N5: HTTP 429, waiting 4s
+[structures] shard0 W9N5: HTTP 429, waiting 16s
+[terrains] shard0 E2N5: HTTP 429, waiting 4s
+[terrains] shard0: 5100 done
+[structures] shard0 E13N5: HTTP 429, waiting 4s
+[structures] shard0 E14N5: HTTP 429, waiting 4s
+[terrains] shard0 E59N5: HTTP 429, waiting 4s
+[terrains] shard0: 5150 done
+[structures] shard0 E25N5: HTTP 429, waiting 4s
+[structures] shard0 E27N5: HTTP 429, waiting 4s
+[terrains] shard0 W8N4: HTTP 429, waiting 4s
+[structures] shard0: 5150 done
+[structures] shard0 E31N5: HTTP 429, waiting 4s
+[terrains] shard0 E5N4: HTTP 429, waiting 4s
+[structures] shard0 E31N5: HTTP 429, waiting 8s
+[terrains] shard0: 5200 done
+[terrains] shard0 E26N4: HTTP 429, waiting 4s
+[structures] shard0 W28N4: HTTP 429, waiting 4s
+[structures] shard0: 5200 done
+[terrains] shard0: 5250 done
+[structures] shard0: 5250 done
+[terrains] shard0: 5300 done
+[structures] shard0: 5300 done
+[terrains] shard0: 5350 done
+[structures] shard0: 5350 done
+[terrains] shard0: 5400 done
+[structures] shard0: 5400 done
+[terrains] shard0: 5450 done
+[structures] shard0: 5450 done
+[terrains] shard0: 5500 done
+[structures] shard0: 5500 done
+[terrains] shard0: 5550 done
+[structures] shard0: 5550 done
+[terrains] shard0: 5600 done
+[structures] shard0: 5600 done
+[terrains] shard0: 5650 done
+[structures] shard0: 5650 done
+[terrains] shard0: 5700 done
+[structures] shard0: 5700 done
+[terrains] shard0: 5750 done
+[structures] shard0: 5750 done
+[terrains] shard0: 5800 done
+Packaged 12912 open rooms into 291 chunks
+[structures] shard0: 5800 done
+[terrains] shard0: 5850 done
+[terrains] shard0: 5900 done
+[structures] shard0: 5850 done
+[terrains] shard0: 5950 done
+[structures] shard0: 5900 done
+[terrains] shard0: 6000 done
+[structures] shard0: 5950 done
+[terrains] shard0: 6050 done
+[structures] shard0: 6000 done
+[terrains] shard0: 6100 done
+[structures] shard0: 6050 done
+[terrains] shard0: 6150 done
+[structures] shard0: 6100 done
+[terrains] shard0: 6200 done
+[structures] shard0: 6150 done
+[terrains] shard0: 6250 done
+[structures] shard0: 6200 done
+[terrains] shard0: 6300 done
+[structures] shard0: 6250 done
+[terrains] shard0: 6350 done
+[structures] shard0: 6300 done
+[terrains] shard0: 6400 done
+[structures] shard0: 6350 done
+[terrains] shard0: 6450 done
+[structures] shard0: 6400 done
+[terrains] shard0: 6500 done
+[structures] shard0: 6450 done
+[terrains] shard0: 6550 done
+[structures] shard0: 6500 done
+[terrains] shard0: 6600 done
+[structures] shard0: 6550 done
+[terrains] shard0: 6650 done
+[structures] shard0: 6600 done
+[terrains] shard0: 6700 done
+[structures] shard0: 6650 done
+[terrains] shard0: 6750 done
+[structures] shard0: 6700 done
+[terrains] shard0: 6800 done
+[structures] shard0: 6750 done
+[terrains] shard0: 6850 done
+[structures] shard0: 6800 done
+[terrains] shard0: 6900 done
+[structures] shard0: 6850 done
+[terrains] shard0: 6950 done
+[structures] shard0: 6900 done
+[terrains] shard0: 7000 done
+[structures] shard0: 6950 done
+[terrains] shard0: 7050 done
+[structures] shard0: 7000 done
+[terrains] shard0: 7100 done
+[structures] shard0: 7050 done
+[terrains] shard0: 7150 done
+[structures] shard0: 7100 done
+[terrains] shard0: 7200 done
+[structures] shard0: 7150 done
+Packaged 14291 open rooms into 312 chunks
+[terrains] shard0: 7250 done
+[structures] shard0: 7200 done
+[terrains] shard0: 7300 done
+[structures] shard0: 7250 done
+[terrains] shard0: 7350 done
+[structures] shard0: 7300 done
+[terrains] shard0: 7400 done
+[structures] shard0: 7350 done
+[terrains] shard0: 7450 done
+[structures] shard0: 7400 done
+[terrains] shard0: 7500 done
+[structures] shard0: 7450 done
+[terrains] shard0: 7550 done
+[structures] shard0: 7500 done
+[terrains] shard0: 7600 done
+[structures] shard0: 7550 done
+[terrains] shard0: 7650 done
+[structures] shard0: 7600 done
+[terrains] shard0: 7700 done
+[terrains] shard0 E15S21: HTTP 429, waiting 4s
+[structures] shard0: 7650 done
+[terrains] shard0: 7750 done
+[structures] shard0: 7700 done
+[terrains] shard0: 7800 done
+[structures] shard0: 7750 done
+[terrains] shard0: 7850 done
+[structures] shard0: 7800 done
+[terrains] shard0: 7900 done
+[structures] shard0: 7850 done
+[terrains] shard0: 7950 done
+[structures] shard0: 7900 done
+[terrains] shard0: 8000 done
+[structures] shard0: 7950 done
+[terrains] shard0: 8050 done
+[structures] shard0: 8000 done
+[terrains] shard0: 8100 done
+[structures] shard0: 8050 done
+[terrains] shard0: 8150 done
+[structures] shard0: 8100 done
+[terrains] shard0: 8200 done
+[structures] shard0: 8150 done
+[terrains] shard0: 8250 done
+[structures] shard0: 8200 done
+[terrains] shard0: 8300 done
+[structures] shard0: 8250 done
+[terrains] shard0: 8350 done
+[structures] shard0: 8300 done
+[terrains] shard0: 8400 done
+[structures] shard0: 8350 done
+[terrains] shard0: 8450 done
+[structures] shard0: 8400 done
+[terrains] shard0: 8500 done
+[structures] shard0: 8450 done
+[terrains] shard0: 8550 done
+[structures] shard0: 8500 done
+[terrains] shard0: 8600 done
+[structures] shard0: 8550 done
+Packaged 15689 open rooms into 336 chunks
+[terrains] shard0: 8650 done
+[structures] shard0: 8600 done
+[terrains] shard0: 8700 done
+[structures] shard0: 8650 done
+[terrains] shard0: 8750 done
+[structures] shard0: 8700 done
+[terrains] shard0: 8800 done
+[structures] shard0: 8750 done
+[terrains] shard0: 8850 done
+[structures] shard0: 8800 done
+[terrains] shard0: 8900 done
+[structures] shard0: 8850 done
+[terrains] shard0: 8950 done
+[structures] shard0: 8900 done
+[terrains] shard0: 9000 done
+[structures] shard0: 8950 done
+[terrains] shard0: 9050 done
+[structures] shard0: 9000 done
+[terrains] shard0: 9100 done
+[structures] shard0: 9050 done
+[terrains] shard0: 9150 done
+[structures] shard0: 9100 done
+[terrains] shard0: 9200 done
+[structures] shard0: 9150 done
+[terrains] shard0: 9250 done
+[structures] shard0: 9200 done
+[terrains] shard0: 9300 done
+[structures] shard0: 9250 done
+[terrains] shard0: 9350 done
+[structures] shard0: 9300 done
+[terrains] shard0: 9400 done
+[structures] shard0 E21S48: HTTP 429, waiting 4s
+[structures] shard0 E22S48: HTTP 429, waiting 4s
+[terrains] shard0 W49S50: HTTP 429, waiting 4s
+[terrains] shard0 W48S50: HTTP 429, waiting 4s
+[structures] shard0: 9350 done
+[structures] shard0 E65S48: HTTP 429, waiting 4s
+[terrains] shard0: 9450 done
+[terrains] shard0 W44S50: HTTP 429, waiting 4s
+[structures] shard0 W48S49: HTTP 429, waiting 4s
+[structures] shard0 W47S49: HTTP 429, waiting 4s
+[terrains] shard0 W10S50: HTTP 429, waiting 4s
+[terrains] shard0 W7S50: HTTP 429, waiting 4s
+[structures] shard0 E2S49: HTTP 429, waiting 4s
+[terrains] shard0 W1S50: HTTP 429, waiting 4s
+[terrains] shard0: 9500 done
+[structures] shard0: 9400 done
+[structures] shard0 E15S49: HTTP 429, waiting 4s
+[structures] shard0 E19S49: HTTP 429, waiting 4s
+[terrains] shard0 E26S50: HTTP 429, waiting 4s
+[terrains] shard0 E42S50: HTTP 429, waiting 4s
+[structures] shard0: 9450 done
+[terrains] shard0: 9550 done
+[terrains] shard0 E60S50: HTTP 429, waiting 4s
+[terrains] shard0 E74S50: HTTP 429, waiting 4s
+[structures] shard0: 9500 done
+[structures] shard0 W4S50: HTTP 429, waiting 4s
+[structures] shard0 W2S50: HTTP 429, waiting 4s
+[terrains] shard0: 9600 done
+[terrains] shard0 E8S51: HTTP 429, waiting 4s
+[terrains] shard0 E9S51: HTTP 429, waiting 4s
+[structures] shard0 E22S50: HTTP 429, waiting 4s
+[terrains] shard0 E12S51: HTTP 429, waiting 4s
+[structures] shard0: 9550 done
+[structures] shard0 E35S50: HTTP 429, waiting 4s
+[terrains] shard0 E26S51: HTTP 429, waiting 4s
+[terrains] shard0 E46S51: HTTP 429, waiting 4s
+[structures] shard0 E50S50: HTTP 429, waiting 4s
+[terrains] shard0: 9650 done
+[structures] shard0 E50S50: HTTP 429, waiting 8s
+[structures] shard0 E61S50: HTTP 429, waiting 4s
+[terrains] shard0 W4S52: HTTP 429, waiting 4s
+[structures] shard0 E68S50: HTTP 429, waiting 4s
+[terrains] shard0 E10S52: HTTP 429, waiting 4s
+[terrains] shard0: 9700 done
+[structures] shard0: 9600 done
+[structures] shard0 E80S50: HTTP 429, waiting 4s
+[terrains] shard0 E22S52: HTTP 429, waiting 4s
+[terrains] shard0 E28S52: HTTP 429, waiting 4s
+[structures] shard0 W3S51: HTTP 429, waiting 4s
+[terrains] shard0 E46S52: HTTP 429, waiting 4s
+[terrains] shard0 E52S52: HTTP 429, waiting 4s
+[structures] shard0: 9650 done
+[structures] shard0 E21S51: HTTP 429, waiting 4s
+[terrains] shard0 E60S52: HTTP 429, waiting 4s
+[structures] shard0 E44S51: HTTP 429, waiting 4s
+[terrains] shard0: 9750 done
+[terrains] shard0 W51S53: HTTP 429, waiting 4s
+[structures] shard0 E58S51: HTTP 429, waiting 4s
+[terrains] shard0 W6S53: HTTP 429, waiting 4s
+Packaged 16822 open rooms into 366 chunks
+[structures] shard0 W55S52: HTTP 429, waiting 4s
+[terrains] shard0 E8S53: HTTP 429, waiting 4s
+[structures] shard0: 9700 done
+[terrains] shard0 E11S53: HTTP 429, waiting 4s
+[terrains] shard0 E12S53: HTTP 429, waiting 4s
+[terrains] shard0 E11S53: HTTP 429, waiting 8s
+[structures] shard0 E24S52: HTTP 429, waiting 4s
+[structures] shard0: 9750 done
+[terrains] shard0: 9800 done
+[terrains] shard0 E27S53: HTTP 429, waiting 4s
+[structures] shard0 E48S52: HTTP 429, waiting 4s
+[structures] shard0 E60S52: HTTP 429, waiting 4s
+[structures] shard0 E70S52: HTTP 429, waiting 4s
+[terrains] shard0 W51S54: HTTP 429, waiting 4s
+[structures] shard0 E80S52: HTTP 429, waiting 4s
+[terrains] shard0: 9850 done
+[terrains] shard0 W3S54: HTTP 429, waiting 4s
+[structures] shard0 E80S52: HTTP 429, waiting 8s
+[terrains] shard0 E11S54: HTTP 429, waiting 4s
+[structures] shard0: 9800 done
+[structures] shard0 E1S53: HTTP 429, waiting 4s
+[terrains] shard0 E22S54: HTTP 429, waiting 4s
+[terrains] shard0 E22S54: HTTP 429, waiting 8s
+[terrains] shard0 E43S54: HTTP 429, waiting 4s
+[structures] shard0: 9850 done
+[terrains] shard0 E48S54: HTTP 429, waiting 4s
+[structures] shard0 E70S53: HTTP 429, waiting 4s
+[terrains] shard0: 9900 done
+[structures] shard0 W54S54: HTTP 429, waiting 4s
+[structures] shard0 W52S54: HTTP 429, waiting 4s
+[terrains] shard0 W8S55: HTTP 429, waiting 4s
+[terrains] shard0 W7S55: HTTP 429, waiting 4s
+[structures] shard0 E12S54: HTTP 429, waiting 4s
+[terrains] shard0 W3S55: HTTP 429, waiting 4s
+[structures] shard0: 9900 done
+[terrains] shard0: 9950 done
+[terrains] shard0 W3S55: HTTP 429, waiting 8s
+[structures] shard0 E26S54: HTTP 429, waiting 4s
+[structures] shard0 E51S54: HTTP 429, waiting 4s
+[terrains] shard0 E30S55: HTTP 429, waiting 4s
+[structures] shard0 W70S55: HTTP 429, waiting 4s
+[structures] shard0 W54S55: HTTP 429, waiting 4s
+[structures] shard0 W70S55: HTTP 429, waiting 8s
+[terrains] shard0: 10000 done
+[structures] shard0: 9950 done
+[terrains] shard0 W30S56: HTTP 429, waiting 4s
+[terrains] shard0 W0S56: HTTP 429, waiting 4s
+[structures] shard0 W4S55: HTTP 429, waiting 4s
+[terrains] shard0: 10050 done
+[structures] shard0: 10000 done
+[terrains] shard0: 10100 done
+[structures] shard0: 10050 done
+[terrains] shard0: 10150 done
+[structures] shard0: 10100 done
+[terrains] shard0: 10200 done
+[structures] shard0: 10150 done
+[terrains] shard0: 10250 done
+[structures] shard0: 10200 done
+[terrains] shard0: 10300 done
+[structures] shard0: 10250 done
+[terrains] shard0: 10350 done
+[structures] shard0: 10300 done
+[terrains] shard0: 10400 done
+[structures] shard0: 10350 done
+[terrains] shard0: 10450 done
+[structures] shard0: 10400 done
+[terrains] shard0: 10500 done
+[structures] shard0: 10450 done
+[terrains] shard0: 10550 done
+[structures] shard0: 10500 done
+[terrains] shard0: 10600 done
+[structures] shard0: 10550 done
+[terrains] shard0: 10650 done
+[structures] shard0: 10600 done
+[terrains] shard0: 10700 done
+[structures] shard0: 10650 done
+[terrains] shard0: 10750 done
+[structures] shard0: 10700 done
+[terrains] shard0: 10800 done
+[structures] shard0: 10750 done
+[terrains] shard0: 10850 done
+[structures] shard0: 10800 done
+[terrains] shard0: 10900 done
+Packaged 17970 open rooms into 384 chunks
+[structures] shard0: 10850 done
+[terrains] shard0: 10950 done
+[structures] shard0: 10900 done
+[terrains] shard0: 11000 done
+[structures] shard0: 10950 done
+[terrains] shard0: 11050 done
+[terrains] shard0: 11100 done
+[structures] shard0: 11000 done
+[terrains] shard0: 11150 done
+[structures] shard0: 11050 done
+[terrains] shard0: 11200 done
+[structures] shard0: 11100 done
+[terrains] shard0: 11250 done
+[structures] shard0: 11150 done
+[terrains] shard0: 11300 done
+[structures] shard0: 11200 done
+[terrains] shard0: 11350 done
+[structures] shard0: 11250 done
+[terrains] shard0: 11400 done
+[structures] shard0: 11300 done
+[terrains] shard0: 11450 done
+[structures] shard0: 11350 done
+[terrains] shard0: 11500 done
+[structures] shard0: 11400 done
+[terrains] shard0: 11550 done
+[structures] shard0: 11450 done
+[terrains] shard0: 11600 done
+[structures] shard0: 11500 done
+[terrains] shard0: 11650 done
+[terrains] shard0: finished, 11653 downloaded (0 not on this shard)
+[terrains] shard1: 13303 rooms to download
+[structures] shard0: 11550 done
+[terrains] shard1: 50 done
+[structures] shard0: 11600 done
+[terrains] shard1: 100 done
+[structures] shard0: 11650 done
+[structures] shard0: finished, 11680 rooms, 765971 objects
+[structures] shard1: 13303 rooms to download
+[terrains] shard1: 150 done
+[terrains] shard1: 200 done
+[structures] shard1: 50 done
+[structures] shard1: 100 done
+[terrains] shard1: 250 done
+[terrains] shard1: 300 done
+[structures] shard1: 150 done
+[terrains] shard1: 350 done
+[structures] shard1: 200 done
