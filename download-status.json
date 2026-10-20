@@ -1,18 +1,18 @@
 {
-  "state": "running",
+  "state": "complete",
   "pid": 45944,
   "startedAt": "2026-10-19T18:42:56.317Z",
   "downloads": {
     "structures": {
       "pid": 45959,
-      "latest": "shard1: 8800 done"
+      "latest": "shardX: finished, 8128 rooms, 390890 objects"
     },
     "terrains": {
       "pid": 45958,
-      "latest": "shard1: 8900 done"
+      "latest": "shardX: finished, 8128 downloaded (0 not on this shard)"
     }
   },
-  "updatedAt": "2026-10-19T20:08:20.327Z",
+  "updatedAt": "2026-10-19T23:03:50.791Z",
   "coverage": {
     "shard0": {
       "open": 13147,
@@ -21,23 +21,24 @@
     },
     "shard1": {
       "open": 14884,
-      "packaged": 10298,
-      "pending": 4586
+      "packaged": 14884,
+      "pending": 0
     },
     "shard2": {
       "open": 14884,
-      "packaged": 1581,
-      "pending": 13303
+      "packaged": 14884,
+      "pending": 0
     },
     "shard3": {
       "open": 14730,
-      "packaged": 1581,
-      "pending": 13149
+      "packaged": 14730,
+      "pending": 0
     },
     "shardX": {
       "open": 9052,
-      "packaged": 924,
-      "pending": 8128
+      "packaged": 9052,
+      "pending": 0
     }
-  }
+  },
+  "finishedAt": "2026-10-19T23:03:50.791Z"
 }
